@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/yueyuan/AndroidStudioProjects/FrameView/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
+        "source": "/Users/yueyuan/AndroidStudioProjects/FrameView/app/src/main/res/drawable-hdpi/map.png"
+    },
+    {
+        "merged": "/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/res/merged/debug/drawable-hdpi/jay.png",
+        "source": "/Users/yueyuan/AndroidStudioProjects/FrameView/app/src/main/res/drawable-hdpi/jay.png"
+    }
+]

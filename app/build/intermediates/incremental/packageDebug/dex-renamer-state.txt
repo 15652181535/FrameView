@@ -1,0 +1,7 @@
+#Thu Oct 12 17:48:24 CST 2017
+base.0=/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e7d0ff6bc927eb4da24ea373f4571408cf371b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b798359cd513c0c10aa48621b8e41e0d15dd77c7/classes.dex
+base.1=/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b798359cd513c0c10aa48621b8e41e0d15dd77c7
+file.0=/Users/yueyuan/AndroidStudioProjects/FrameView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e7d0ff6bc927eb4da24ea373f4571408cf371b1/classes.dex
